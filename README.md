@@ -1,4 +1,2 @@
-# hello-world
-github testing
-
-branch testing message
+# Chulalongkorn University Computational Molecular Biomedicine Website
+Bootstrap site
