@@ -1,0 +1,11 @@
+.banner-bg
+{
+	position: relative;
+    background-image: url('../content/desk_crop.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    height: 250px;
+    background-size: cover;
+    overflow: hidden;
+}
